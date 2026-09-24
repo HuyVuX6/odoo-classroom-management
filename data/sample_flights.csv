@@ -1,0 +1,11 @@
+session_id,date,start_time,end_time,student_id,student_name,instructor_id,instructor_name,simulator_id,exercise_type,difficulty,duration_minutes,score_control,score_navigation,score_safety,score_communication,overall_score,status
+S001,2026-09-15,08:00,09:30,ST001,Nguyen Van A,IN001,Tran Thi B,SIM001,Takeoff,Beginner,90,78,75,82,80,79,Pass
+S002,2026-09-15,10:00,11:30,ST002,Pham Thi C,IN001,Tran Thi B,SIM002,Landing,Intermediate,90,82,79,85,81,82,Pass
+S003,2026-09-16,08:30,10:00,ST003,Hoang Van D,IN002,Le Minh E,SIM001,Navigation,Intermediate,90,71,68,74,70,71,Fail
+S004,2026-09-16,10:30,12:00,ST004,Vu Thi F,IN002,Le Minh E,SIM002,Emergency,Advanced,90,88,85,89,87,87,Pass
+S005,2026-09-17,09:00,10:30,ST001,Nguyen Van A,IN001,Tran Thi B,SIM001,Navigation,Intermediate,90,84,81,86,82,83,Pass
+S006,2026-09-17,11:00,12:30,ST005,Ly Van G,IN001,Tran Thi B,SIM003,Takeoff,Beginner,90,75,72,78,76,75,Pass
+S007,2026-09-18,08:00,09:30,ST002,Pham Thi C,IN002,Le Minh E,SIM002,Navigation,Intermediate,90,79,77,80,78,79,Pass
+S008,2026-09-18,10:00,11:30,ST003,Hoang Van D,IN001,Tran Thi B,SIM001,Takeoff,Beginner,90,80,78,81,79,80,Pass
+S009,2026-09-19,09:30,11:00,ST004,Vu Thi F,IN002,Le Minh E,SIM003,Landing,Intermediate,90,85,83,86,84,85,Pass
+S010,2026-09-19,13:00,14:30,ST005,Ly Van G,IN001,Tran Thi B,SIM002,Emergency,Advanced,90,86,84,87,85,86,Pass
