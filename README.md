@@ -4,7 +4,6 @@
 **Trạng thái:** Tuần 1 - Nền tảng (Đang thực hiện)
 **Hạn chót:** 27/09/2026
 **Quản lý dự án:** HuyVu
-**Mục tiêu:** Ứng tuyển vị trí Business Analyst tại Google
 
 ---
 
