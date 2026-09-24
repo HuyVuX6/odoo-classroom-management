@@ -569,7 +569,7 @@ python scripts/analyze_data.py
 ```bash
 # Configure Git first time:
 git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.email "shadow20053301@gmail.com"
 
 # Then try push again:
 git push origin main
@@ -638,8 +638,8 @@ This project demonstrates to Google's Business Analyst team:
 ## 📞 Support & Questions
 
 **Project Lead:** HuyVu  
-**Email:** [your.email@example.com]  
-**GitHub:** [@YOUR_USERNAME]
+**Email:** [shadow20053301@gmail.com]  
+**GitHub:** [@HuyVux6]
 
 ---
 
