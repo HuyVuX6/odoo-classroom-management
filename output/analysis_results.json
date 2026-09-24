@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "analysis_date": "2026-09-24T09:30:51.386537",
+    "data_source": "sample_flights.csv",
+    "total_records": 10,
+    "analysis_period": {
+      "start_date": "2026-09-15",
+      "end_date": "2026-09-19"
+    }
+  },
+  "students": {
+    "total_count": 5,
+    "data": [
+      {
+        "student_id": "ST001",
+        "student_name": "Nguyen Van A",
+        "total_sessions": 2,
+        "avg_score": 81.0,
+        "min_score": 79,
+        "max_score": 83,
+        "score_std": 2.83,
+        "avg_control": 81.0,
+        "avg_navigation": 78.0,
+        "avg_safety": 84.0,
+        "avg_communication": 81.0,
+        "pass_count": 2,
+        "pass_rate_percent": 100.0
+      },
+      {
+        "student_id": "ST002",
+        "student_name": "Pham Thi C",
+        "total_sessions": 2,
+        "avg_score": 80.5,
+        "min_score": 79,
+        "max_score": 82,
+        "score_std": 2.12,
+        "avg_control": 80.5,
+        "avg_navigation": 78.0,
+        "avg_safety": 82.5,
+        "avg_communication": 79.5,
+        "pass_count": 2,
+        "pass_rate_percent": 100.0
+      },
+      {
+        "student_id": "ST003",
+        "student_name": "Hoang Van D",
+        "total_sessions": 2,
+        "avg_score": 75.5,
+        "min_score": 71,
+        "max_score": 80,
+        "score_std": 6.36,
+        "avg_control": 75.5,
+        "avg_navigation": 73.0,
+        "avg_safety": 77.5,
+        "avg_communication": 74.5,
+        "pass_count": 1,
+        "pass_rate_percent": 50.0
+      },
+      {
+        "student_id": "ST004",
+        "student_name": "Vu Thi F",
+        "total_sessions": 2,
+        "avg_score": 86.0,
+        "min_score": 85,
+        "max_score": 87,
+        "score_std": 1.41,
+        "avg_control": 86.5,
+        "avg_navigation": 84.0,
+        "avg_safety": 87.5,
+        "avg_communication": 85.5,
+        "pass_count": 2,
+        "pass_rate_percent": 100.0
+      },
+      {
+        "student_id": "ST005",
+        "student_name": "Ly Van G",
+        "total_sessions": 2,
+        "avg_score": 80.5,
+        "min_score": 75,
+        "max_score": 86,
+        "score_std": 7.78,
+        "avg_control": 80.5,
+        "avg_navigation": 78.0,
+        "avg_safety": 82.5,
+        "avg_communication": 80.5,
+        "pass_count": 2,
+        "pass_rate_percent": 100.0
+      }
+    ]
+  },
+  "instructors": {
+    "total_count": 2,
+    "data": [
+      {
+        "instructor_id": "IN001",
+        "instructor_name": "Tran Thi B",
+        "total_sessions": 6,
+        "avg_student_score": 80.8,
+        "student_passes": 6,
+        "pass_rate": 100.0
+      },
+      {
+        "instructor_id": "IN002",
+        "instructor_name": "Le Minh E",
+        "total_sessions": 4,
+        "avg_student_score": 80.5,
+        "student_passes": 3,
+        "pass_rate": 75.0
+      }
+    ]
+  },
+  "simulators": {
+    "total_count": 3,
+    "data": [
+      {
+        "simulator_id": "SIM001",
+        "total_sessions": 4,
+        "total_hours": 6.0,
+        "avg_score": 78.2,
+        "student_passes": 3,
+        "pass_rate": 75.0
+      },
+      {
+        "simulator_id": "SIM002",
+        "total_sessions": 4,
+        "total_hours": 6.0,
+        "avg_score": 83.5,
+        "student_passes": 4,
+        "pass_rate": 100.0
+      },
+      {
+        "simulator_id": "SIM003",
+        "total_sessions": 2,
+        "total_hours": 3.0,
+        "avg_score": 80.0,
+        "student_passes": 2,
+        "pass_rate": 100.0
+      }
+    ]
+  },
+  "exercise_types": {
+    "total_count": 4,
+    "data": [
+      {
+        "exercise_type": "Emergency",
+        "total_sessions": 2,
+        "avg_overall": 86.5,
+        "avg_control": 87.0,
+        "avg_navigation": 84.5,
+        "avg_safety": 88.0,
+        "avg_communication": 86.0,
+        "pass_count": 2,
+        "pass_rate": 100.0
+      },
+      {
+        "exercise_type": "Landing",
+        "total_sessions": 2,
+        "avg_overall": 83.5,
+        "avg_control": 83.5,
+        "avg_navigation": 81.0,
+        "avg_safety": 85.5,
+        "avg_communication": 82.5,
+        "pass_count": 2,
+        "pass_rate": 100.0
+      },
+      {
+        "exercise_type": "Navigation",
+        "total_sessions": 3,
+        "avg_overall": 77.67,
+        "avg_control": 78.0,
+        "avg_navigation": 75.33,
+        "avg_safety": 80.0,
+        "avg_communication": 76.67,
+        "pass_count": 2,
+        "pass_rate": 66.7
+      },
+      {
+        "exercise_type": "Takeoff",
+        "total_sessions": 3,
+        "avg_overall": 78.0,
+        "avg_control": 77.67,
+        "avg_navigation": 75.0,
+        "avg_safety": 80.33,
+        "avg_communication": 78.33,
+        "pass_count": 3,
+        "pass_rate": 100.0
+      }
+    ]
+  },
+  "sessions": {
+    "total_count": 10,
+    "by_date": {
+      "2026-09-15": 2,
+      "2026-09-16": 2,
+      "2026-09-17": 2,
+      "2026-09-18": 2,
+      "2026-09-19": 2
+    },
+    "by_difficulty": [
+      {
+        "count": 2,
+        "avg_score": 86.5,
+        "pass_count": "2/2"
+      },
+      {
+        "count": 3,
+        "avg_score": 78.0,
+        "pass_count": "3/3"
+      },
+      {
+        "count": 5,
+        "avg_score": 80.0,
+        "pass_count": "4/5"
+      }
+    ],
+    "by_exercise_type": [
+      {
+        "count": 2,
+        "avg_score": 86.5,
+        "pass_count": "2/2"
+      },
+      {
+        "count": 2,
+        "avg_score": 83.5,
+        "pass_count": "2/2"
+      },
+      {
+        "count": 3,
+        "avg_score": 77.7,
+        "pass_count": "2/3"
+      },
+      {
+        "count": 3,
+        "avg_score": 78.0,
+        "pass_count": "3/3"
+      }
+    ]
+  },
+  "statistics": {
+    "overall_pass_rate": 90.0,
+    "average_score": 80.7,
+    "score_range": {
+      "min": 71.0,
+      "max": 87.0,
+      "std": 5.01
+    }
+  }
+}
